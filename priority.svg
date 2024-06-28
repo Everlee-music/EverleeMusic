@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.373" y1="0.255" x2="1" y2="0.903" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#565cf8"/>
+      <stop offset="1" stop-color="#bb2cce"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_47" data-name="Group 47" transform="translate(-2438 -5244)">
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="180" height="180" rx="30" transform="translate(2438 5244)" fill="#fff"/>
+    <path id="comments-question" d="M105.053,70.035v35.018H70.035a35.012,35.012,0,0,1-30.29-17.526,48.01,48.01,0,0,0,9.814-1.086A26.213,26.213,0,0,0,70.035,96.3H96.3V70.035a26.213,26.213,0,0,0-9.857-20.477,48.317,48.317,0,0,0,1.086-9.814,35.012,35.012,0,0,1,17.526,30.29ZM78.79,39.395a39.395,39.395,0,0,0-78.79,0V78.79H39.395A39.437,39.437,0,0,0,78.79,39.395Zm-70.035,0A30.641,30.641,0,1,1,39.395,70.035H8.754Zm35.018,6.588a5.58,5.58,0,0,1,1.957-3.834,13.133,13.133,0,0,0-3.988-24.429A13.129,13.129,0,0,0,26.268,30.641h8.754A4.379,4.379,0,1,1,41.5,34.475c-3.7,2.035-6.483,6.982-6.483,11.5v2.167h8.754V45.978Zm0,6.544H35.018v8.754h8.754Z" transform="translate(2475.473 5281.474)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

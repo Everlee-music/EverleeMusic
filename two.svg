@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103" height="103" viewBox="0 0 103 103">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0" y2="0.822" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#41dfd0"/>
+      <stop offset="1" stop-color="#5800ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_39" data-name="Group 39" transform="translate(713 -151)">
+    <g id="Group_33" data-name="Group 33" transform="translate(-713.176 151)">
+      <g id="Group_16" data-name="Group 16" transform="translate(0.176 0)">
+        <g id="Group_15" data-name="Group 15" transform="translate(0)">
+          <g id="Group_12" data-name="Group 12">
+            <g id="Group_10" data-name="Group 10">
+              <rect id="Rectangle_3" data-name="Rectangle 3" width="103" height="103" rx="15" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_37" data-name="Group 37" transform="translate(5 6.152)">
+      <g id="gradient" transform="translate(-746.37 73.995)">
+        <path id="Path_53" data-name="Path 53" d="M49.226,156.073h61.288a1.226,1.226,0,0,0,1.226-1.226V143.509a11.966,11.966,0,0,0-10.374-11.844,11.032,11.032,0,1,0-13.576,0,11.951,11.951,0,0,0-7.924,4.6,11.951,11.951,0,0,0-7.918-4.6,11.032,11.032,0,1,0-13.573,0A11.966,11.966,0,0,0,48,143.509v11.338a1.226,1.226,0,0,0,1.226,1.226ZM86,122.978a8.58,8.58,0,1,1,8.58,8.58A8.58,8.58,0,0,1,86,122.978Zm3.371,11.032H99.788a9.51,9.51,0,0,1,9.5,9.5v10.112h-4.9V142.59a1.226,1.226,0,1,0-2.451,0v11.032H87.224V142.59a1.226,1.226,0,1,0-2.452,0v11.032H82.321V143.509a11.877,11.877,0,0,0-1.07-4.934A9.5,9.5,0,0,1,89.369,134.01ZM56.58,122.978a8.58,8.58,0,1,1,8.58,8.58A8.58,8.58,0,0,1,56.58,122.978Zm-6.129,20.531a9.51,9.51,0,0,1,9.5-9.5H70.37a9.51,9.51,0,0,1,9.5,9.5v10.112h-4.9V142.59a1.226,1.226,0,1,0-2.451,0v11.032H57.806V142.59a1.226,1.226,0,1,0-2.452,0v11.032h-4.9Z" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="music-player" transform="translate(-678.629 160.627)">
+        <g id="Group_36" data-name="Group 36" transform="translate(2.083 0)">
+          <path id="Path_54" data-name="Path 54" d="M21.86.223a.912.912,0,0,0-.727-.214L8.363,1.834a.912.912,0,0,0-.783.9V13.431A3.66,3.66,0,1,0,9.4,16.6V7.176L20.35,5.613v5.994a3.659,3.659,0,1,0,1.824,3.165V.912A.912.912,0,0,0,21.86.223Z" transform="translate(-2.083 0)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
